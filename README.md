@@ -1,2 +1,2 @@
 # Antho-Polytechnique-Montreal
-projets de programmation Polytechnique (MATLAB en particulier)
+projets de programmation effectués à Polytechnique Montréal (MATLAB en particulier)
